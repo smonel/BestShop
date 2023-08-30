@@ -1,0 +1,41 @@
+
+.bar{
+    /* Layout Properties */
+   margin-top: 0px;
+   margin-left: 0px;
+   width: 1627px;
+   height: 70px;
+   /* UI Properties */
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    
+}
+       
+#logo{
+    /* Layout Properties */
+margin-top: 16px;
+width: 142px;
+height: 37px;
+margin-right: auto;
+/* UI Properties */
+text-align: left;
+font: normal normal 300 32px/37px Raleway;
+letter-spacing: 0px;
+color: #08A6E4;
+opacity: 1;
+}
+  
+  #why{
+    /* Layout Properties */
+margin-top: 28px;
+margin-left: 646px;
+width: 60px;
+height: 15px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 11px/15px Open Sans;
+letter-spacing: 3.28px;
+color: #000000;
+opacity: 1;
+  }
